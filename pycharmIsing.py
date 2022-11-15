@@ -3,6 +3,7 @@
 # https://support.dwavesys.com/hc/en-us/articles/360003718693-Define-a-Simple-Problem-and-Submit-It-to-a-QPU-Ising-Example-
 # $ pip install dimod                           # !
 # $ pip install dwave-system                    # !
+# /Users/thomasperez/pycharmcore101/core101/pycharmIsing.py
 
 from dwave.system import DWaveSampler           # ! >>>
 from dwave.system import EmbeddingComposite
