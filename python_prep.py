@@ -19,14 +19,17 @@ print('Hello HW-1')
 def exercise_1(S):
 
     # TODO: Add up the numbers in S using a for-loop and return the sum.
+    S = [1, 2, 3, 4, 5]
+    sum = 0
+    for i in S:
+        sum += i
 
-    return
+    return sum
 
 def exercise_2(S):
 
     # TODO: Add up the numbers in S in 2 lines or less and return the sum.
-
-    return
+    return sum(i for i in S)
 
 
 def exercise_3():
