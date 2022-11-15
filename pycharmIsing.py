@@ -4,6 +4,7 @@
 # $ pip install dimod                           # !
 # $ pip install dwave-system                    # !
 # /Users/thomasperez/pycharmcore101/core101/pycharmIsing.py
+# Ask tutor re no qubits
 
 from dwave.system import DWaveSampler           # ! >>>
 from dwave.system import EmbeddingComposite
